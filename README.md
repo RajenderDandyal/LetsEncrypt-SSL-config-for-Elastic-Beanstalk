@@ -25,3 +25,5 @@ Deploy your app and enjoy the green lock ;)
 
 # aws certificate manager
 * https://aws.amazon.com/certificate-manager/
+
+# https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/configuring-https.html
